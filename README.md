@@ -33,6 +33,7 @@ DataChat lets you have a conversation with your dataset. No SQL, no code — jus
 git clone https://github.com/vanshikanehra-hash/datachat.git
 cd datachat
 pip install -r requirements.txt
+```
 
-## Author
+**Author**
 Vanshika Nehra — B.Tech Data Science, Manipal University JaipurBuilding toward GSoC 2027 🚀
