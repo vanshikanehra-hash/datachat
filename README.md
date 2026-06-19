@@ -40,4 +40,5 @@ pip install -r requirements.txt
 ## **Author**
 
 Vanshika Nehra — B.Tech Data Science, Manipal University Jaipur
+
 Building toward GSoC 2027 🚀
